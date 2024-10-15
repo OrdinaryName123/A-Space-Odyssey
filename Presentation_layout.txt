@@ -1,0 +1,19 @@
+
+## IMPORTANT CONSIDERATIONS ##
+- Also include content on multi-threading which is initially used to wait for use to press enter. 
+- No more than 40-50 words on a slide. 
+- Explain story.
+- KEY FOCUS ON TECHNICALITY AND CREATIVITY.
+- Add animations to the slide. 
+- Use neon-theme, darker contrasting colors paired with vibrant theme -> cyber-punk-esque. 
+
+Slide #1: Title page -> Include screen recording of game logo here.
+Slide #2: Basic exposition? (optional) -> can explain the hybrid-genre of the game, space/apocalypse and cultural syncretism / mélange / eclectic story.   
+Slide #3: Visuals / Ascii Art / TermColor / Pyfiglet / Animation. 
+Slide #4: Game Parser - Difflib 
+Slide #5: Execute Functions / Inventory / Item system -> classes / objects.
+Slide #6: Attack system
+Slide #7: Player stats, boosters, nerfs etc.
+Slide #8: Puzzle system (need to implement code first) (not sure about this - may not be possible within time alloted)
+Slide #9: Win Conditions (good;bad;neutral) etc, explain alternative ending system and random generation functions for items, shops etc. 
+Slide #10: To summarise / Credits
